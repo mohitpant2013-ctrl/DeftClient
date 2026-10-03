@@ -1,4 +1,4 @@
-# Vostro MC Launcher 🚀
+# DeftClient Launcher 🚀
 
 A lightweight, custom Minecraft launcher built specifically for low-end PCs (optimized for old processors like Intel Core i3-380M and limited RAM setups like 6GB RAM). 
 
